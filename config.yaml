@@ -1,0 +1,13 @@
+num_rows: 5000
+start_date: '2021-01-01'
+end_date: '2025-12-31'
+categories:
+  Furniture:
+    subcategories: ['Bookcases', 'Chairs', 'Tables', 'Furnishings']
+  Office Supplies:
+    subcategories: ['Binders', 'Paper', 'Art', 'Labels', 'Storage']
+  Technology:
+    subcategories: ['Phones', 'Accessories', 'Copiers', 'Machines']
+segments: ['Consumer', 'Corporate', 'Home Office']
+regions: ['East', 'West', 'Central', 'South']
+ship_modes: ['Standard Class', 'Second Class', 'First Class', 'Same Day']
